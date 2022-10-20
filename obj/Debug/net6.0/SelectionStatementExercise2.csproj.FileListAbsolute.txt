@@ -1,0 +1,15 @@
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\bin\Debug\net6.0\SelectionStatementExercise2.exe
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\bin\Debug\net6.0\SelectionStatementExercise2.deps.json
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\bin\Debug\net6.0\SelectionStatementExercise2.runtimeconfig.json
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\bin\Debug\net6.0\SelectionStatementExercise2.dll
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\bin\Debug\net6.0\SelectionStatementExercise2.pdb
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.csproj.AssemblyReference.cache
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.AssemblyInfoInputs.cache
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.AssemblyInfo.cs
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.csproj.CoreCompileInputs.cache
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.dll
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\refint\SelectionStatementExercise2.dll
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.pdb
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\SelectionStatementExercise2.genruntimeconfig.cache
+C:\Users\rufio\OneDrive\Desktop\repos\Selection-Statement-Exercise-2\obj\Debug\net6.0\ref\SelectionStatementExercise2.dll
